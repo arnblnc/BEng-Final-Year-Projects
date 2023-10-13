@@ -1,6 +1,6 @@
 # Mechatronics Lab Report
 ## Description
-This repository houses files and a detailed report for 10 Arduino projects, showcasing an enhanced understanding of mechatronics, electronics, and technical communication. It serves as a testament to creativity, problem-solving, and practical application in circuit design and programming.
+This folder contains files and a detailed report for 10 Arduino projects, showcasing an enhanced understanding of mechatronics, electronics, and technical communication. It serves as a testament to creativity, problem-solving, and practical application in circuit design and programming.
 
 ## Highlights
 - Tilt Lamp Project: Integrated a tilt sensor with an RGB LED. This repository contains the circuit diagram, and a comprehensive report for the 'Tilt Lamp', reflecting improved technical writing and graphical representation skills.
