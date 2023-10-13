@@ -1,6 +1,6 @@
 # Finite Element Analysis (FEA) of T-section Aluminium Beam
 ## Description
-This contains a detailed report on the finite element analysis (FEA) of a T-section aluminium beam. Through meticulous simulations, this work delves deep into understanding the behavior of the beam under various forces such as bending, torsion, and shear. The document demonstrates a profound grasp of FEA principles, structural mechanics, and technical communication.
+This folder contains a detailed report on the finite element analysis (FEA) of a T-section aluminium beam. Through meticulous simulations, this work delves deep into understanding the behavior of the beam under various forces such as bending, torsion, and shear. The document demonstrates a profound grasp of FEA principles, structural mechanics, and technical communication.
 
 ## Highlights
 - T-section Aluminium Beam Analysis: A comprehensive study of stresses, strains, and deformations in a T-section beam. By using FEA, this report uncovers the intricate details and behaviors of the beam under external loads.
