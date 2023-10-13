@@ -1,6 +1,6 @@
 # AI Handwriting Recognition Report
 ## Description
-This repository contains files and a comprehensive report centered around the application of Artificial Intelligence (AI) for handwriting recognition. The projects within demonstrate an enhanced understanding of AI principles, techniques, and practical implementations. It stands as a testament to rigorous research, problem-solving, and the application of AI in solving real-world challenges.
+This folder contains files and a comprehensive report centered around the application of Artificial Intelligence (AI) for handwriting recognition. The projects within demonstrate an enhanced understanding of AI principles, techniques, and practical implementations. It stands as a testament to rigorous research, problem-solving, and the application of AI in solving real-world challenges.
 
 ## Highlights
 - AI Handwriting Recognition: A detailed exploration into the complexities of recognising different styles of handwriting, specifically distinguishing between constrained and unconstrained handwriting. The goal is to create a program that can efficiently recognise the more common unconstrained handwriting, ensuring wider applicability.
