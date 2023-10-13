@@ -1,6 +1,6 @@
 # Design of a Passive Exoskeleton Suit System on Carrying Heavy Load for Backpacker
 ## Description
-This repository contains files and a detailed report on the design and development of a passive exoskeleton suit system aimed at assisting backpackers in carrying heavy loads. The projects within demonstrate an enhanced understanding of biomechanics, design principles, and technical communication. It stands as a testament to innovative thinking, problem-solving, and practical application in exoskeleton design and prototyping.
+This folder contains files and a detailed report on the design and development of a passive exoskeleton suit system aimed at assisting backpackers in carrying heavy loads. The projects within demonstrate an enhanced understanding of biomechanics, design principles, and technical communication. It stands as a testament to innovative thinking, problem-solving, and practical application in exoskeleton design and prototyping.
 
 ## Highlights
 - Passive Exoskeleton Suit System: A comprehensive study on the design, development, and prototyping of an exoskeleton suit to aid backpackers. The project delves into various design considerations, methodologies, and analyses, reflecting a holistic approach to exoskeleton design.
