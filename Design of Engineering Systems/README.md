@@ -6,6 +6,7 @@ This folder contains files and a detailed report on the design and development o
 - Passive Exoskeleton Suit System: A comprehensive study on the design, development, and prototyping of an exoskeleton suit to aid backpackers. The project delves into various design considerations, methodologies, and analyses, reflecting a holistic approach to exoskeleton design.
 - Body Connection Mechanisms: Investigates different mechanisms for connecting and adjusting the exoskeleton to the human body, ranging from Velcro straps to adjustable crutch mechanisms.
 - Aaron's Sketches: A collection of design sketches and prototype images, showcasing the iterative design process and creativity in exoskeleton development.
+- Grade: 73%
 
 ## Files
 - Body connection and adjustment.pdf: Details on various connection and adjustment mechanisms for the exoskeleton.
