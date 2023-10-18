@@ -6,6 +6,7 @@ This folder contains files and a comprehensive report centered around the applic
 - AI Handwriting Recognition: A detailed exploration into the complexities of recognising different styles of handwriting, specifically distinguishing between constrained and unconstrained handwriting. The goal is to create a program that can efficiently recognise the more common unconstrained handwriting, ensuring wider applicability.
 - Report Structure: Provides a structured guide for the AI project, detailing various sections like introduction, design, results, and conclusions. It offers a roadmap for the systematic presentation of the project's findings.
 - Group Project Brief: An assignment proforma that outlines the expectations, guidelines, and structure for the "Introduction to AI Applications in Engineering" project.
+- **Grade: 72%**
 
 ## Files
 - Report Structure.pdf: A structured guide detailing the breakdown of the AI group project.
